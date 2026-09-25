@@ -1,4 +1,5 @@
 package edu.ncsu.monopoly;
+//nueva actualizacion
 
 public class CardCell extends Cell {
     private int type;
